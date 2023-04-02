@@ -15,6 +15,7 @@
 .allPagesContainer{
     height: 100%;
     display: flex ;
+    transition: all 0.6s;
 }
 
 .arrow{
